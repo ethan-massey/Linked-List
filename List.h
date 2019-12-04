@@ -1,5 +1,4 @@
 // Ethan Massey
-// ejm4aa
 // 1/31/19
 // List.h
 
